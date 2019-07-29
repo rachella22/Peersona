@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+.table{
+    height: 100%;
+    width: 100%;
+}
+
+.thead.dark{
+    padding-left: 4px;
+    padding-right: 32px;
+    text-align: center; 
+}
+
+.btnSubmit{
+    margin: 0 auto;
+    width: 20px;
+    display: center;
+}
